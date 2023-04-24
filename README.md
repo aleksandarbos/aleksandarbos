@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! My name is Alex, and I'm a software engineer with a passion for building high-quality software applications. I have extensive experience in various technologies, including .NET, Python, JavaScript, React, and React Native and many others.
+My name is Alex, and I'm a software engineer with a passion for building high-quality software applications. I have extensive experience in various technologies, including .NET, Python, JavaScript, React, and React Native and many others.
 
 👯 In the past, I worked at a university, where I taught web technologies. Since then, I've been focusing on taking on projects and components that I can work on independently. Recently, I published a [repository](https://github.com/aleksandarbos/solutions-for-data-structures-and-algorithms-in-python) that includes resolved tasks from the book "Python Algorithms and Data Structures.". It's a great way to showcase my coding skills, and I invite you to check it out.
 
